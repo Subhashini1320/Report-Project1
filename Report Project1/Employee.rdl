@@ -59,7 +59,7 @@ FROM           EmployeeTbale</CommandText>
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Employee Detail</Value>
+                    <Value>Employee Information</Value>
                     <Style>
                       <FontFamily>Segoe UI Light</FontFamily>
                       <FontSize>24pt</FontSize>
