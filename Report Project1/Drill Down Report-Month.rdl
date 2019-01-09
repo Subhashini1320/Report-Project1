@@ -634,6 +634,9 @@ Order by Ord.Order_ID</CommandText>
                                               <Parameter Name="Month">
                                                 <Value>=Fields!Orderedmonth.Value</Value>
                                               </Parameter>
+                                              <Parameter Name="CustName">
+                                                <Value>=Fields!CustomerName.Value</Value>
+                                              </Parameter>
                                             </Parameters>
                                           </Drillthrough>
                                         </Action>
